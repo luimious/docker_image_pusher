@@ -1,5 +1,7 @@
 nginx
 busybox
+hyperledger/fabric-peer
+hyperledger/fabric-orderer
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
@@ -9,7 +11,6 @@ hyperledger/fabric-peer:2.4.9
 hyperledger/fabric-orderer:2.4.9
 hyperledger/fabric-ccenv:2.4.9
 hyperledger/fabric-tools:2.4.9
-hyperledger/fabric-baseos：2.4.9
+hyperledger/fabric-baseos:2.4
 busybox:latest
-hyperledger/fabric-peer:latest
-hyperledger/fabric-orderer:latest
+
