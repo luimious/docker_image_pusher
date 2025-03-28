@@ -9,6 +9,6 @@ hyperledger/fabric-orderer:2.4.9
 hyperledger/fabric-ccenv:2.4.9
 hyperledger/fabric-tools:2.4.9
 hyperledger/fabric-baseos：2.4.9
-busybox
+busybox:latest
 hyperledger/fabric-peer:latest
 hyperledger/fabric-orderer:latest
